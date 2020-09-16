@@ -89,7 +89,6 @@ function obstacles(){
     obstacle.scale = 0.15;
     obstacle.velocityX = -5;
     obstacle.lifetime = 100;
-    obstacle.debug = true;
     obstaclesGroup.add(obstacle);
   }
 }
